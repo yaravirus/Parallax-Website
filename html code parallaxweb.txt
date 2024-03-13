@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="day1.css">
+        
+</head>
+<body>
+        <section class="a">
+                <div class="b">parallax website</div>                
+        </section>
+        <section class="c">
+                <h2 class="d">Section One</h4>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam aut amet odio est laborum obcaecati perferendis! Mollitia officiis, consectetur vitae laborum eos expedita reprehenderit nostrum tempore. Atque laborum repudiandae adipisci nihil. Natus cum sapiente culpa excepturi quasi magni quibusdam ipsum accusamus laborum, numquam odit! Nisi repudiandae cumque incidunt tempora explicabo vero in corporis provident quidem quisquam sit, asperiores ullam placeat ut iure pariatur ratione laboriosam totam amet minus. Porro, quam quisquam explicabo rerum labore, tempora officia eveniet mollitia iure a fugiat, magnam at. Vero magni aliquam ea molestias omnis, quia fuga architecto maiores ut magnam! Culpa, cum. Blanditiis, tempore temporibus.</p>
+        </section>
+        <section class="e">
+                <div class="f">EXPLORE NATURE</div>
+        </section>
+        
+        <section class="h">
+                <h2 class="d">Section Two</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam aut amet odio est laborum obcaecati perferendis! Mollitia officiis, consectetur vitae laborum eos expedita reprehenderit nostrum tempore. Atque laborum repudiandae adipisci nihil. Natus cum sapiente culpa excepturi quasi magni quibusdam ipsum accusamus laborum, numquam odit! Nisi repudiandae cumque incidunt tempora explicabo vero in corporis provident quidem quisquam sit, asperiores ullam placeat ut iure pariatur ratione laboriosam totam amet minus. Porro, quam quisquam explicabo rerum labore, tempora officia eveniet mollitia iure a fugiat, magnam at. Vero magni aliquam ea molestias omnis, quia fuga architecto maiores ut magnam! Culpa, cum. Blanditiis, tempore temporibus.</p>
+        </section>
+        <section class="i">
+                <div class="j">LOOK, DEEP INTO NATURE</div>
+        </section>
+       
+        <section class="l">
+                <h2 class="k">Section Three</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam aut amet odio est laborum obcaecati perferendis! Mollitia officiis, consectetur vitae laborum eos expedita reprehenderit nostrum tempore. Atque laborum repudiandae adipisci nihil. Natus cum sapiente culpa excepturi quasi magni quibusdam ipsum accusamus laborum, numquam odit! Nisi repudiandae cumque incidunt tempora explicabo vero in corporis provident quidem quisquam sit, asperiores ullam placeat ut iure pariatur ratione laboriosam totam amet minus. Porro, quam quisquam explicabo rerum labore, tempora officia eveniet mollitia iure a fugiat, magnam at. Vero magni aliquam ea molestias omnis, quia fuga architecto maiores ut magnam! Culpa, cum. Blanditiis, tempore temporibus.</p>
+        </section>
+        <section class="m">
+                <div class="n">PROJECT BY DURGESH</div>
+        </section>
+</body>
+</html>
